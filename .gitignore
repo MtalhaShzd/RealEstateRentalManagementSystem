@@ -1,0 +1,26 @@
+# Ignore Visual Studio user-specific files
+.vs/
+*.user
+*.suo
+
+# Ignore build output
+bin/
+obj/
+
+# Ignore Debug/Release folders
+Debug/
+Release/
+
+# Ignore temp/log/backup files
+*.tmp
+*.log
+*.bak
+
+# Ignore OS-specific files
+Thumbs.db
+ehthumbs.db
+Desktop.ini
+
+# Ignore cache and database files
+*.db
+*.cache
